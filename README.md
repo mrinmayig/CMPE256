@@ -1,4 +1,8 @@
 # CMPE256
+
+## Team- SentiMAP
+
+### Mrinmayi, Aprajita, Priyanka
 Large-Scale Analytics Course Project
 
 This repository contains: 
