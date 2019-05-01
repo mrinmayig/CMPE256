@@ -3,6 +3,8 @@
 ## Team- SentiMAP
 
 ### Mrinmayi, Aprajita, Priyanka
+
+Link for dataset source: http://jmcauley.ucsd.edu/data/amazon/index.html
 Large-Scale Analytics Course Project
 
 This repository contains: 
